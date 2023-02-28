@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here]() // to be added
-- Live Site URL: [Add live site URL here]() // to be added
+- Live Site URL: https://randomadvicegeneratorapp.netlify.app 
 
 ## My process
 
